@@ -1,0 +1,2 @@
+# KashiBase
+Uso de ejemplo
