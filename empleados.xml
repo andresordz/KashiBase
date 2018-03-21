@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!--Comentario-->
+<empleados>
+<empleado>
+	<nombre>Juan</nombre>
+	<ciudad>CDMX</ciudad>
+	<sueldo>15000</sueldo>
+</empleado>
+<empleado>
+	<nombre>Pedro</nombre>
+	<ciudad>GDL</ciudad>
+	<sueldo>20000</sueldo>
+</empleado>
+</empleados>
